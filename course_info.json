@@ -1,0 +1,16 @@
+{
+    "courses":[
+        {
+            "name" : "phy1001",
+            "url" : "baugo-phy1002-7",
+            "session_day" : "monday",
+            "session_hour" : "13:30"
+        },
+        {
+            "name" : "test",
+            "url" : "test",
+            "session_day" : "test",
+            "session_hour" : "00:00"
+        }
+    ]
+}
