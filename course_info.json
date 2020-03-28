@@ -1,16 +1,10 @@
 {
     "courses":[
         {
-            "name" : "phy1001",
-            "url" : "baugo-phy1002-7",
+            "name" : "template - please configure or generate your own course_info.jsonphy1001",
+            "url" : "template - please configure or generate your own course_info.json",
             "session_day" : "monday",
-            "session_hour" : "13:30"
-        },
-        {
-            "name" : "test",
-            "url" : "test",
-            "session_day" : "test",
-            "session_hour" : "00:00"
+            "session_hour" : "13:37"
         }
     ]
 }
