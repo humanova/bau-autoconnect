@@ -4,7 +4,7 @@ import schedule
 import time
 
 def request_join_course(course_id):
-    r_url = f"https://bau.adobeconnect.com/{course_id}/?disclaimer-consent=true&proto=true"
+    r_url = f"https://baugo.adobeconnect.com/{course_id}/?disclaimer-consent=true&proto=true"
     webbrowser.open(r_url)
 
 if __name__ == "__main__":
